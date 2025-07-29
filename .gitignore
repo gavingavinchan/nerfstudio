@@ -190,4 +190,4 @@ camera_paths/
 
 # pixi environments
 .pixi
-/third_party
+/third_party\n# Ignore generated output files\n/outputs/
